@@ -21,16 +21,21 @@ However, a question of academic dishonesty involving the test scores of the 9th 
      - There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the district wide summary.
 
 *New School District Summary*
-![New District Summary](./Resources/new_school_district_summary.png)
+![New District Summary](./Resources/new_district_summary.png)
 
 *Original School District Summary*
-![Original District Summary](./Resources/original_school_district_summary.png)
- 
+![Original District Summary](./Resources/original_district_summary.png)
+
 - Impact on school summary
-     - 
+     - There was again a negligible (0.3% or less) impact to both the average scores and the percentage passing in the school summary for Thomas High School.
 
+*New School Summary*
+![New School Summary](./Resources/new_THS_school_summary.png)
 
-- Impact on Thomas High School's perfromamce relative to other schools
+*Original School Summary*
+![Original School Summary](./Resources/original_THS_school_summary.png)
+
+- Impact on Thomas High School's perfromance relative to other schools
 
 - Impact on analysis of math and reading scores by grade level
 
