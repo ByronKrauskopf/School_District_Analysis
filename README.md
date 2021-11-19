@@ -19,8 +19,12 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 
 - Impact on district summary
      - As can be seen by comparing the two results, there was a negligible (0.3% or less) impact to both ther average scores and the percentage passing in the district wide     summary.
-*insert new summary
-*insert original summary
+
+*New School District Summary*
+![New District Summary]9./Resources/new_school_district_summary.png)
+
+*Original School District Summary*
+![Original District Summary]9./Resources/original_school_district_summary.png)
      
 - Impact on school summary
      - 
