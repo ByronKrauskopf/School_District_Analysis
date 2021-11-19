@@ -18,8 +18,13 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ## Results
 
 - Impact on district summary
-    
+     - As can be seen by comparing the two results, there was a negligible (0.3% or less) impact to both ther average scores and the percentage passing in the district wide     summary.
+*insert new summary
+*insert original summary
+     
 - Impact on school summary
+     - 
+
 
 - Impact on Thomas High School's perfromamce relative to other schools
 
