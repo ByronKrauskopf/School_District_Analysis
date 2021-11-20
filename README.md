@@ -35,7 +35,13 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 *Original School Summary*
 ![Original School Summary](./Resources/original_THS_school_summary.png)
 
-- Impact on Thomas High School's perfromance relative to other schools
+- Impact on Thomas High School's performance relative to other schools
+     - Thomas High school remained the second highest perfroming school in the district after only their overall passing percentage decrease by 0.3%
+
+*New Top 5 Schools*
+![New Top 5 Schools](./Resources/new_top_five_schools.png)
+*Original Top 5 Schools*
+![Original Top 5 Schools](./Resources/original_top_five_schools.png)
 
 - Impact on analysis of math and reading scores by grade level
 
