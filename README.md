@@ -45,12 +45,14 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original Top 5 Schools](./Resources/original_top_five_schools.png)
 
 - Impact on analysis of math and reading scores by grade level
-     - Removing the 9th grade scores for Thomas High School had only a small impact on the average math and reading scores for the 9th grade as a whole.
+     - Removing the 9th grade scores for Thomas High School had only a small impact on the average math and reading scores for the 9th grade as a whole. The average 9th Grade math score went down by 0.3% and reading by 0.1%.
 
 *New Average Scores by Grade*
+
 ![New Average Scores by Grade](./Resources/new_average_scores_by_grade.png)
 
 *Original Average Scores by Grade*
+
 ![Original Average Scores by Grade](./Resources/original_average_scores_by_grade.png)
 
 - Impact on analysis of scores by school spending per student
