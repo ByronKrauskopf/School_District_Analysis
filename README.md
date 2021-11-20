@@ -21,27 +21,33 @@ However, a question of academic dishonesty involving the test scores of the 9th 
      - There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the district wide summary.
 
 *New School District Summary*
+     
 ![New District Summary](./Resources/new_district_summary.png)
 
 *Original School District Summary*
+     
 ![Original District Summary](./Resources/original_district_summary.png)
 
 - Impact on school summary
      - There was again a negligible (0.3% or less) impact to both the average scores and the percentage passing in the school summary for Thomas High School.
 
 *New School Summary*
+
 ![New School Summary](./Resources/new_THS_school_summary.png)
 
 *Original School Summary*
+
 ![Original School Summary](./Resources/original_THS_school_summary.png)
 
 - Impact on Thomas High School's performance relative to other schools
      - Thomas High school remained the second highest perfroming school in the district after only their overall passing percentage decrease by 0.3%
 
 *New Top 5 Schools*
+
 ![New Top 5 Schools](./Resources/new_top_five_schools.png)
 
 *Original Top 5 Schools*
+
 ![Original Top 5 Schools](./Resources/original_top_five_schools.png)
 
 - Impact on analysis of math and reading scores by grade level
@@ -56,9 +62,37 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original Average Scores by Grade](./Resources/original_average_scores_by_grade.png)
 
 - Impact on analysis of scores by school spending per student
+     - There was no change in the results of the analysis on scores based on school spending per capita.
+     
+*New Scores By School Spending per Capita*
+
+![New Scores By School Spending per Capita](./Resources/new_scores_by_school_spending.png)
+
+*Original Scores by School Spending Per Capita*
+
+![Original Scores By School Spending per Capita](./Resources/original_scores_by_school_spending.png)
+
 
 - Impact of analysis of scores by school size
+     - There was no change in the results of the analysis on scores based on school size.
+
+*New Scores By School Size*
+
+![New Scores By School Size](./Resources/new_scores_by_school_size.png)
+
+*Original Scores by School Size*
+
+![Original Scores By School Size](./Resources/original_scores_by_school_size.png)
 
 - Impact of analysis of scores by school type
+     - There was no change in the results of the analaysis on scores based on schools size.
+
+*New Scores By School Type*
+
+![New Scores By School Type](./Resources/new_scores_by_school_type.png)
+
+*Original Scores by School Type*
+
+![Original Scores By School Type](./Resources/original_scores_by_school_type.png)
 
 ## Summary
