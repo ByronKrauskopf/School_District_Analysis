@@ -18,7 +18,11 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ## Results
 
 - Impact on district summary
-     - There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the district wide summary.
+     - At the district summary level the following results were reduced:
+          - the average math score was reduced by 0.1 to 78.9 
+          - the percentage passing math was reduced by 0.2% to 74.8% 
+          - the percentage passing reading was reduced by 0.1% to 85.7%
+          - the percentage passing overall was reduced by 0.3% to 64.9%
 
 *New School District Summary*
      
@@ -29,7 +33,11 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original District Summary](./Resources/original_district_summary.png)
 
 - Impact on school summary
-     - There was again a negligible (0.3% or less) impact to both the average scores and the percentage passing in the school summary for Thomas High School.
+     - At the school summary level for Thomas High School the follow results were changed:
+          - the average reading score increased by 0.1 to 83.9
+          - the percentage passing math was reduced by 0.1% to 93.2% 
+          - the percentage passing reading was reduced by 0.3% to 97.0%
+          - the percentage passing overall was reduced by 0.3% to 90.6% 
 
 *New School Summary*
 
@@ -40,7 +48,7 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original School Summary](./Resources/original_THS_school_summary.png)
 
 - Impact on Thomas High School's performance relative to other schools
-     - Thomas High school remained the second highest perfroming school in the district after only their overall passing percentage decrease by 0.3%
+     - Thomas High school went from being the second highest school by overall passinging percentage to only being tied for second place with 2 other schools due to their 0.3% reduction in this metric.
 
 *New Top 5 Schools*
 
@@ -51,7 +59,9 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original Top 5 Schools](./Resources/original_top_five_schools.png)
 
 - Impact on analysis of math and reading scores by grade level
-     - Removing the 9th grade scores for Thomas High School had only a small impact on the average math and reading scores for the 9th grade as a whole. The average 9th Grade math score went down by 0.3% and reading by 0.1%.
+     - At the scores by grade level the following results were changed:
+          - the average math score for the 9th grade was reduced by 0.3 to 80.1
+          - the average reading score for the 9th grade was reduced by 0.1 to 82.4
 
 *New Average Scores by Grade*
 
@@ -96,3 +106,10 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ![Original Scores By School Type](./Resources/original_scores_by_school_type.png)
 
 ## Summary
+
+In summary the overall impact of the removal of the Thomas High School 9th Grade test scores was minimal across all aspects of the analysis. 
+- There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the district wide summary. 
+- There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the school summary for Thomas High School. 
+- Thomas High School remained second overall for passing percentage, however it was now tied at that level with two other schools. 
+- There was a negligible (0.3% or less) reduction in the average scores at the 9th grade level. 
+- There was no impact on the results of the analyses based on per capita spending, school size, or school type.
