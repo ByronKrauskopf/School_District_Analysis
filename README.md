@@ -108,9 +108,11 @@ However, a question of academic dishonesty involving the test scores of the 9th 
 ## Summary
 
 In summary the overall impact of the removal of the Thomas High School 9th Grade test scores was minimal across all aspects of the analysis. 
+
 - There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the district wide summary. 
 - There was a negligible (0.3% or less) impact to both the average scores and the percentage passing in the school summary for Thomas High School. 
 - Thomas High School remained second overall for passing percentage, however it was now tied at that level with two other schools. 
 - There was a negligible (0.3% or less) reduction in the average scores at the 9th grade level. 
 - There was no impact on the results of the analyses based on per capita spending, school size, or school type.
+
 Therefore it is my recommendation that the school board proceed with using the new analysis that excludes questionable grades as it is a more accurate reflection of performance and will be of more use for their planning purposes. 
